@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello world 啦啦啦
+    Hello world 测试
   </div>
 </template>
 
